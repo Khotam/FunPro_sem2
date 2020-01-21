@@ -1,0 +1,10 @@
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\bin\Debug\wiut.exe.config
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\bin\Debug\wiut.exe
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\bin\Debug\wiut.pdb
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\obj\Debug\wiut.csprojAssemblyReference.cache
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\obj\Debug\wiut.Form1.resources
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\obj\Debug\wiut.Properties.Resources.resources
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\obj\Debug\wiut.csproj.GenerateResource.cache
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\obj\Debug\wiut.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\obj\Debug\wiut.exe
+\\peter\ZDrive\00007717\Desktop\wiut\wiut\obj\Debug\wiut.pdb
