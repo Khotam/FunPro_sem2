@@ -1,0 +1,61 @@
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\WIUT.sdf
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\WIUT.exe.config
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\WIUT.exe
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\WIUT.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\WIUT.DAL.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\System.Data.SqlServerCe.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\WIUT.DAL.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\bin\Debug\WIUT.DAL.dll.config
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.csprojResolveAssemblyReference.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.AboutForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.ApplicantListForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.ParentForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.csproj.CopyComplete
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.exe
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT\obj\Debug\WIUT.CourseListForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\WIUT.sdf
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\WIUT.exe.config
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\WIUT.exe
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\WIUT.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\WIUT.DAL.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\System.Data.SqlServerCe.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\WIUT.DAL.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\bin\Debug\WIUT.DAL.dll.config
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.csprojResolveAssemblyReference.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.AboutForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.ApplicantListForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.CourseEditForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.CourseListForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.ParentForm.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.csproj.CopyComplete
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.exe
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 18\WIUT\WIUT\obj\Debug\WIUT.ApplicantEditForm.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\WIUT.sdf
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\WIUT.exe.config
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\WIUT.exe
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\WIUT.pdb
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\WIUT.DAL.dll
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\System.Data.SqlServerCe.dll
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\WIUT.DAL.pdb
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\bin\Debug\WIUT.DAL.dll.config
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.csprojAssemblyReference.cache
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.AboutForm.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.ApplicantEditForm.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.ApplicantListForm.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.CourseEditForm.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.CourseListForm.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.ParentForm.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.csproj.CopyComplete
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.exe
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT full solution\WIUT\WIUT\obj\Debug\WIUT.pdb

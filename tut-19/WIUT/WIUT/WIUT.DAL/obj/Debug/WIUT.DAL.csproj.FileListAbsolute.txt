@@ -1,0 +1,18 @@
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll.config
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.pdb
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\bin\Debug\System.Data.SqlServerCe.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csprojResolveAssemblyReference.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CoreCompileInputs.cache
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CopyComplete
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.dll
+e:\WIUT\FunPro\C#\Tutorials\TW 17\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.pdb
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll.config
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.pdb
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\bin\Debug\System.Data.SqlServerCe.dll
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csprojAssemblyReference.cache
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CopyComplete
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.dll
+\\peter\ZDrive\00007717\Desktop\tut-19\WIUT\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.pdb
